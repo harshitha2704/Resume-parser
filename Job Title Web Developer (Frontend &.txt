@@ -1,0 +1,33 @@
+Job Title: Web Developer (Frontend & Backend)
+
+Company: [Company Name]
+
+Location: [Location]
+
+Job Description:
+
+Are you passionate about creating seamless, user-centric web applications that leave a lasting impact? Join our team as a Web Developer to build innovative solutions that bridge the gap between design and functionality. We're seeking a talented individual who is adept at both frontend and backend development to drive our web projects forward.
+
+Responsibilities:
+
+Develop and maintain responsive web applications, ensuring high performance and usability across various devices and browsers.
+Collaborate with cross-functional teams to translate design mock-ups into functional, user-friendly features.
+Implement frontend functionalities using modern JavaScript frameworks (such as React, Vue.js, or Angular) to create interactive and dynamic user interfaces.
+Design and develop APIs and backend services using appropriate technologies (Node.js, Django, Flask, etc.) to support frontend functionalities.
+Perform thorough testing to identify and resolve bugs, ensuring high-quality code standards and application reliability.
+Continuously research and integrate new technologies to enhance web development processes and improve user experiences.
+Requirements:
+
+Bachelor's degree in Computer Science, Software Engineering, or related field (or equivalent experience).
+Proven experience in frontend development with expertise in HTML, CSS, and JavaScript. Experience with modern frontend frameworks is a plus.
+Strong knowledge of backend technologies such as Node.js, Python, or other relevant languages/frameworks for server-side development.
+Familiarity with database systems (SQL and/or NoSQL databases) and API design principles.
+Ability to work in an Agile/Scrum environment, collaborating with designers, product managers, and other stakeholders.
+Excellent problem-solving skills and the ability to adapt to new technologies and frameworks.
+Strong communication skills and a collaborative mindset to work effectively within a team environment.
+Benefits:
+
+Competitive salary and benefits package.
+Opportunities for professional growth and career development.
+Collaborative and innovative work culture fostering creativity and learning.
+Work-life balance initiatives and flexible work arrangements.
